@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Instant News App</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Prathamesh Malavi" />
+    <meta
+      name="description"
+      content="A Progressive Web App made using NewsAPI.org"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="manifest" href="manifest.json" />
+    <meta name="theme-color" content="#ffffff" />
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <h1>Instant News App</h1>
+        <h3>
+          Provide a list of news from all sources. Choose from a list of news
+          sources to get the latest popular headlines. Powered by NewsAPI.org!
+        </h3>
+      </div>
+    </header>
+    <main class="display-area">
+      <select id="news-selector"></select>
+      <div class="story-section visible" id="news-list"></div>
+    </main>
+    <footer class="footer">
+      <div class="footer-content">
+        <h2 class="footer-title">Stay Updated with Our Newsletter</h2>
+        <form class="subscribe-form" action="" method="post">
+          <input
+            type="text"
+            id="footername"
+            name="name"
+            placeholder="Your Name"
+            required
+          />
+          <input
+            type="email"
+            id="footeremail"
+            name="email"
+            placeholder="Your Email"
+            required
+          />
+          <button id="footerSubscribeButton">Subscribe</button>
+        </form>
+        <p>Get the latest news delivered to your inbox!</p>
+      </div>
+    </footer>
+
+    <div class="footerCopyright">
+      <a href=""> <i></i>&copy; 2024 Prathamesh Malavi. All rights reserved.</a>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/firebase/7.14.1-0/firebase.js"></script>
+    <script src="js/mail.js"></script>
+    <script src="js/app.js"></script>
+  </body>
+</html>
+
+<!-- class="fa fa-github" inide i for github logo-->
+<!-- <i  class="fa fa-github" ></i> -->
