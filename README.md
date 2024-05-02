@@ -7,8 +7,7 @@ Has The following Features
 <li>Privacy-focused - We'll never collect your precious data.</li>
 <li>Light-weight - Loads almost instantly.</li>
 
-/n
-/n
+</br>
 
 ![image](https://github.com/PrathameshMalavi/NewsWebApp/assets/114830029/4b72ec08-f05f-410e-ac0e-6c72e5425473)
 
