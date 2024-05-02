@@ -1,4 +1,4 @@
-const apiKey = "eae4e6de90f745648b34485ec952142d"; // Get API key from NewsAPI.org
+const apiKey = "#"; // Get API key from NewsAPI.org
 const defaultSource = "the-times-of-india"; //"wired"//"the-hindu"; // default source of news
 const sourceSelector = document.querySelector("#news-selector");
 const newsArticles = document.querySelector("#news-list");
