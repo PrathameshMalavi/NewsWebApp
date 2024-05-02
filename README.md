@@ -2,10 +2,10 @@
 A Progressive News Web App with subscribe news letter made using NewsApi.org
 
 </br>
-</br>
 
 <b>Has The following Features</b>
 <li> Saves news Articles links to the browser's localStorage</li>
+<li>Connected to firebase for news letter</li>
 <li>Installable on supported browsers for offline usage.</li>
 <li>Privacy-focused - We'll never collect your precious data.</li>
 <li>Light-weight - Loads almost instantly.</li>
