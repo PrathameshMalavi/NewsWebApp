@@ -1,5 +1,12 @@
 # NewsWebApp
-A Progressive News Web App with subscribe news letter
+A Progressive News Web App with subscribe news letter made using NewsApi.org
+<li>
+                Write notes which are then saved to the browser's localStorage
+              </li>
+              <li>Installable on supported browsers for offline usage.</li>
+              <li>Dark mode.</li>
+              <li>Privacy-focused - We'll never collect your precious data.</li>
+              <li>Light-weight - Loads almost instantly.</li>
 
 ![image](https://github.com/PrathameshMalavi/NewsWebApp/assets/114830029/4b72ec08-f05f-410e-ac0e-6c72e5425473)
 
