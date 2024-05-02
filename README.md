@@ -1,7 +1,10 @@
 # NewsWebApp
 A Progressive News Web App with subscribe news letter made using NewsApi.org
 
-Has The following Features
+</br>
+</br>
+
+<b>Has The following Features</b>
 <li> Saves news Articles links to the browser's localStorage</li>
 <li>Installable on supported browsers for offline usage.</li>
 <li>Privacy-focused - We'll never collect your precious data.</li>
