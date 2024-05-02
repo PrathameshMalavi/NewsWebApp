@@ -19,3 +19,12 @@ A Progressive News Web App with subscribe news letter made using NewsApi.org
 
 ![image](https://github.com/PrathameshMalavi/NewsWebApp/assets/114830029/c9fd2af3-eb1d-4cff-8fcf-96af269f38ac)
 
+
+</br>
+</br>
+</br>
+
+<b>Setup</b>
+1. Pull the github Rep or download
+2. Get your api key from newsapi.org and key to app.js
+3. setup firebase project and add config object to mail.js
